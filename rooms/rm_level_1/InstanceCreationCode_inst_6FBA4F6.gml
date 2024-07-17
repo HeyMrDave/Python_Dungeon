@@ -1,0 +1,10 @@
+dialog_message = "Tipos de datos comunes#"
+dialog_message += "Numeros enteros 'int'#"
+dialog_message += "entero = 5#"
+dialog_message += "Numeros decimales 'float'#"
+dialog_message += "decimal = 5.7#"
+dialog_message += "Cadenas de texto 'str'#"
+dialog_message += "texto = 'Hola, Mundo'#"
+dialog_message += "Booleanos 'bool'#"
+dialog_message += "es_verdadero = True"
+show_E = true;

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Template_Readme",
+  "name":"Template_Readme",
+  "parent":{
+    "name":"Python_Dungeon",
+    "path":"Python_Dungeon.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

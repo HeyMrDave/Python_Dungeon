@@ -1,0 +1,21 @@
+{
+  "$GMPath":"",
+  "%Name":"Path8",
+  "closed":true,
+  "kind":1,
+  "name":"Path8",
+  "parent":{
+    "name":"Game",
+    "path":"folders/Objects/Game.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1408.0,"y":1856.0,},
+    {"speed":100.0,"x":1376.0,"y":2208.0,},
+    {"speed":100.0,"x":1472.0,"y":2272.0,},
+    {"speed":100.0,"x":1568.0,"y":2208.0,},
+    {"speed":100.0,"x":1568.0,"y":1856.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
